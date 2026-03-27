@@ -5,6 +5,13 @@
 2. Multi EC2 Deployment
 3. Docker + ECR + ECS Deployment
 
+## Features
+- User input form
+- REST API (GET & POST)
+- Dynamic message display
+- Docker support
+- AWS deployment ready
+
 ## Tech Stack
 - Flask (Backend)
 - Express (Frontend)
